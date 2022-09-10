@@ -1,0 +1,108 @@
+h1{
+    color: brown;
+}
+
+
+
+.red {
+    color: red;
+}
+.orange {
+    color: orange;
+}
+.yellow {
+    color: yellow;
+}
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
+.dark-blue {
+    color: darkblue;
+}
+.violet {
+    color: violet;
+}
+
+.red-block h2,
+.red-block > p{
+    color: red;
+}
+
+.dark-red{
+    color: darkred;
+}
+
+.dark-red.indianred{
+    color:indianred;
+}
+
+.red-block ~ .orange-block{
+    color: orange;
+}
+
+#yellow{
+    color: yellow;
+}
+
+mark{
+    color: black;
+}
+
+.yellow-block div p{
+    color: yellow;
+}
+
+.yellow-block div + p{
+    color: darkgoldenrod;
+}
+
+.yellow{
+    color: yellow;
+} 
+
+.green-block{
+    color: green;
+}
+
+.blue-block{
+    color: blue;
+}
+
+.blue-block h2 + p{
+    color: cornflowerblue;
+}
+
+#dark-blue{
+    color: darkblue;
+}
+
+#dark-blue ~ p{
+    color: mediumblue;
+}
+.dark-blue-block > a{
+    color:steelblue;
+}
+
+.dark-blue-block p + a{
+    color: black;
+}
+
+.violet-block{
+    color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
